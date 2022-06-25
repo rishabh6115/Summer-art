@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+  .my-10 {
+    flex-direction: column;
+  }
+  .w-7\/12 {
+    width: 100%;
+  }
+}
